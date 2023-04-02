@@ -1,0 +1,11 @@
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\bin\Debug\AngryBlocks.exe.config
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\bin\Debug\AngryBlocks.exe
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\bin\Debug\AngryBlocks.pdb
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\obj\Debug\AngryBlocks.csproj.AssemblyReference.cache
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\obj\Debug\AngryBlocks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\obj\Debug\AngryBlocks.Form1.resources
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\obj\Debug\AngryBlocks.Properties.Resources.resources
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\obj\Debug\AngryBlocks.csproj.GenerateResource.cache
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\obj\Debug\AngryBlocks.csproj.CoreCompileInputs.cache
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\obj\Debug\AngryBlocks.exe
+C:\Users\Kaitlyn\Desktop\REDUSBV3\stuff\ICS3U\AngryBlocks\AngryBlocks\obj\Debug\AngryBlocks.pdb
